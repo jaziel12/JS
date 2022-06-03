@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+
+.nav {
+    display: flex;
+    background-color: rgb(111, 170, 170);
+    justify-content:space-between;
+    
+}
+
+.Logo1{
+    width: 100px;
+    height: 100px;
+}
+
+.B1{
+    background-image: url(https://thumbs.dreamstime.com/b/accesorios-para-chicas-doradas-joyas-y-bordes-botellas-de-perfume-sobre-fondo-madera-158279200.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.stock{
+    display: grid;
+    place-items: center;
+
+}
